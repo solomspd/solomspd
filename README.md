@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there :wave:
 - ### You can get in touch with me through my email: abdelsalam@solom.dev
 I get back to you as soon as I can.
 - ### Check out my website: https://www.solom.dev
@@ -11,4 +11,4 @@ That's where you can find some of my thoughts, rambles and project write ups (WI
        alt="snake" />
 </div>
 
-GIF made with <3 on [solomspd/contribution-cal-snake](https://github.com/solomspd/contribution-cal-snake)
+GIF made with :heart: on [solomspd/contribution-cal-snake](https://github.com/solomspd/contribution-cal-snake)
