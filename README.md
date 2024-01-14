@@ -1,9 +1,9 @@
 ## Hi there :wave:
 - ### You can get in touch with me through my email: abdelsalam@solom.dev
-I get back to you as soon as I can.
+I'll get back to you as soon as I can.
 - ### Check out my website: https://www.solom.dev
 That's where you can find some of my thoughts, rambles and project write ups (WIP). Oh and thats where I post my photography too.
-- ### If you'd like to learn more about me, see out my [resume](https://raw.githubusercontent.com/solomspd/CV/master/resume/Abdelsalam%20ElTamawy%20Resume.pdf)
+- ### If you'd like to learn more about me, see my [resume](https://raw.githubusercontent.com/solomspd/CV/master/resume/Abdelsalam%20ElTamawy%20Resume.pdf)
 - ### You can also find me on my [LinkedIn](https://linkedin.com/in/abdelsalam-et)
 
 <div align="center">
